@@ -1,2 +1,2 @@
 # TOPICS-SENTIMENT-ANALYSIS
-use SNOWNLP to process posts in Chinese
+use SNOWNLP package to process posts in Chinese
